@@ -1,0 +1,16 @@
+
+.context-menu {
+    -fx-background-color:rgba(0.0,0.0,0.0,0.85);
+    -fx-background-radius:4.0;	
+    -fx-cursor:hand;
+}
+
+.menu-item .label{
+    -fx-text-fill:white;
+    -fx-font-weight:bold;
+}
+
+.menu-item:focused {
+    -fx-background-color:orange;
+    -fx-background-radius:10.0;
+}
