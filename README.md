@@ -2,10 +2,10 @@
 
 A simple Android clock widget for desktop
 
-## requirment
+## requirement
 
 1. jdk 1.8
-2. javafx 8
+2. javaFX 8
 
 ---
 
@@ -17,7 +17,7 @@ A simple Android clock widget for desktop
 
 ---
 
-### custome menu:
+### custom menu:
 
 <img src="./Screenshots/custom context menu.png" width = "150px"/>    
 <img src="./Screenshots/custom context menu with sub menu item.png" width = "150px"/>
